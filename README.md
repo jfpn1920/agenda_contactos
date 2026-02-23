@@ -7,7 +7,7 @@ Este proyecto consiste en el desarrollo de una agenda de contactos en Python, do
 
 La aplicación permite agregar nuevos contactos, buscar contactos existentes por nombre y mostrar la lista completa almacenada en memoria. Todo esto se gestiona a través de un menú interactivo, permitiendo al usuario navegar fácilmente entre las distintas funcionalidades del sistema.
 
-El proyecto aplica los principios fundamentales de la Programación Orientada a Objetos (POO), promoviendo una estructura clara, modular y escalable. Además, simula el funcionamiento básico de una agenda digital, sentando las bases para futuras mejoras como almacenamiento en archivos, validaciones avanzadas o integración con bases de datos.
+El proyecto aplica los principios fundamentales de la Programación Orientada a Objetos (POO), promoviendo una estructura clara, modular y escalable. Además, simula el funcionamiento básico de una agenda digital, sentando las bases para futuras mejoras como almacenamiento en archivos o validaciones avanzadas.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
